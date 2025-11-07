@@ -1,7 +1,6 @@
 public class App {
-    public static void saludar() {
-    System.out.println("¡Hola desde una función!");
-
+    public static void main(String[] args) throws Exception {
+        System.out.println("Hello, World!");
         
     }
 }
